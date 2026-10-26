@@ -1,0 +1,15 @@
+abs
+airbag
+battery
+brake_system
+check_engine
+coolant_temp
+door_open
+fog_light
+low_fuel
+oil_pressure
+power_steering
+seatbelt
+traction_control
+tyre_pressure
+washer_fluid
