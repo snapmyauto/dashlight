@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.key
+roboflow_key.txt
+
+# Datasets (kept in Roboflow, not Git)
+datasets/
+data/
+*.zip
+
+# Training output (copy only charts into results/)
+runs/
+*.pt
+*.onnx
+*_saved_model/
+
+# Models go to GitHub Releases / app repo, not main
+*.tflite
+
+# OS
+.DS_Store
+Thumbs.db
